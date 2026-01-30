@@ -39,7 +39,8 @@ jobs:
           bundle install
       - name: Install Python dependencies
         run: |
-          python -m venv venv --upgrade  # Create or upgrade virtual environment
+          rm -rf venv  # Remove old venv if it exists
+          python -m venv venv  # Create virtual environment
           source venv/bin/activate  # Activate the virtual environment
           pip install -r requirements.txt  # Install Python packages
 
