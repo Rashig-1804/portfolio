@@ -16,6 +16,9 @@ Run the basic desert adventure game. Use WASD or arrow keys to move Chill Guy ar
 {% capture code1 %}
 import GameControl from '/assets/js/adventureGame/GameEngine/GameControl.js';
 import GameEnvBackground from '/assets/js/adventureGame/GameEngine/GameEnvBackground.js';
+import Player from '/assets/js/adventureGame/GameEngine/Player.js';
+import Npc from '/assets/js/adventureGame/GameEngine/Npc.js';
+import Barrier from '/assets/js/adventureGame/GameEngine/Barrier.js';
 
 class CustomLevel {
     constructor(gameEnv) {
