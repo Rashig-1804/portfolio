@@ -7,6 +7,8 @@ comments: True
 microblog: True
 ---
 
+<button onclick="history.back()">Go Back</button>
+
 ### <font color="yellow"> Table of Contents </font>
 * [Custom Level Testing](#testing)
 * [NPC AI](#npc)

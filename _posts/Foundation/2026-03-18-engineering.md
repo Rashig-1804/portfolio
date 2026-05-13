@@ -7,6 +7,9 @@ comments: True
 microblog: True
 ---
 
+<button onclick="history.back()">Go Back</button>
+
+
 ## #2. <font color="red"> Object Oriented Programming </font>
 
 ### <font color="yellow"> Table of Contents </font>
