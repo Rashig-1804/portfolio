@@ -40,6 +40,11 @@ Murder Mystery Game Level 1: <br>
 Red Riding Hood Game: <br>
 [https://rashig-1804.github.io/new_csse2_team/gamify/redridinghood](https://rashig-1804.github.io/new_csse2_team/gamify/redridinghood)
 <br>
+
+Red Riding Hood Game New Feature Presentation!: <br>
+[https://rashig-1804.github.io/portfolio/red-riding](https://rashig-1804.github.io/portfolio/red-riding)
+<br>
+
 <br>
 
 <h2> Different Areas of Progress! </h2>
