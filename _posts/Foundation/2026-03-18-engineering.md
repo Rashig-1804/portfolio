@@ -13,7 +13,12 @@ microblog: True
 ## #2. <font color="red"> Object Oriented Programming </font>
 
 ### <font color="yellow"> Table of Contents </font>
+* [Writing Classes](#writing-classes)
+* [Methods & Parameters](#methods-&-parameters)
+* [Instantiation & Objects](#instantiation-&-objects)
 * [Inheritance](#inheritance)
+* [Method Overriding](#method-overriding)
+* [Constructor Chaining](#method-overriding)
 * [OOP Hierarchy](#oop-hierarchy)
 * [Object Literals](#object-literals)
 * [State Management](#state-management)
