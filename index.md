@@ -9,9 +9,10 @@ show_reading_time: false
 
 Hi! My name is Rashi Gaurav. I am very eager to learn more about computer science, and how we can work with software platforms to program games or even a website!
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/finalportfolio" class="btn" style="background-color: #FF1493; color: white;">
-        MY PORTFOLIO!
+    <a href="{{site.baseurl}}/college-ready" class="btn" style="background-color: #FF1493; color: white;">
+        COLLEGE-READY PORTFOLIO
     </a>
 </div>
 
@@ -92,3 +93,9 @@ Hi! My name is Rashi Gaurav. I am very eager to learn more about computer scienc
 </div>
 
 <br>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/finalportfolio" class="btn" style="background-color: #FF1493; color: white;">
+        MY PORTFOLIO!
+    </a>
+</div>
