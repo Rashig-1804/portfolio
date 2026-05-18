@@ -8,9 +8,13 @@ type: portfolio
 permalink: /oopdisplay
 ---
 
-
-<button onclick="history.back()">Go Back</button>
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/college-ready" style="text-decoration: none;">
+        <div style="background-color: var(--teal); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s;">
+           Go back!
+        </div>
+    </a>
+</div>
 
 ## <font color="red"> Object Oriented Programming </font>
 
