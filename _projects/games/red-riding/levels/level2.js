@@ -70,7 +70,7 @@ class SplineBarrier {
       return !inside;
   }
 
-  draw(debug = false) {
+  draw(debug = true) {
       if (debug && this.polygon.length > 0) {
           // Fill the valid walkable custom area with transparent green so you can see it exactly
           this.ctx.fillStyle = "rgba(0, 255, 0, 0.3)";
@@ -214,7 +214,7 @@ class GameLevelRedRidingHood2 {
 
 
     this.continue = true;
-    this.debugMode = false; // Set to true to see the green path and enable click logging
+    this.debugMode = true; // Set to true to see the green path and enable click logging
     this.wonGame = false;
 
     this.titleElement = document.createElement('div');
