@@ -108,21 +108,26 @@ Here is what I did at those places
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and culture!
-- The gallery of pics has some of my family, fun, and cultural memories!
-- There is my mom, dad, and my elder sister, Ananya! 
-- I love dancing
-- Below are some pics from our fun New York Trip, my dance performance, Diwali, and my middle school promotion!
+Everything for me, as for many others, revolves around my family, friends, hobbies, culture, and the world!
+- I love dancing and playing the piano
+- I love watching sunsets and visiting national parks
+- There is my mom, dad, and elder sister, Ananya
+- Below are some pics from my travels, my piano recital, Diwali, our fun 2019 New York Trip, and my middle school promotion!
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/family.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/lv.png" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/piano.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/yosemite.jpeg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/new_york.JPG" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/dance_1.png" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/mom.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/family.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/hoco.jpeg" alt="Image 2">
+
+
 </div>
 
 
