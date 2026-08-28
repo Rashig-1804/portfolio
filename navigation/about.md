@@ -8,6 +8,7 @@ comments: true
 ## As a conversation Starter
 
 Here are some places I have lived.
+I enjoy computer science
 
 <comment>
 Flags are made using Wikipedia images
